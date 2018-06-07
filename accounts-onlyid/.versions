@@ -23,7 +23,7 @@ ejson@1.1.0
 geojson-utils@1.0.10
 http@1.4.1
 id-map@1.1.0
-laosb:accounts-onlyid@1.0.2
+laosb:accounts-onlyid@1.0.4
 laosb:onlyid-oauth@1.0.1
 localstorage@1.2.0
 logging@1.1.20
