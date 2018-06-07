@@ -1,6 +1,7 @@
 Package.describe({
   name: 'laosb:accounts-onlyid',
   summary: 'Login service for OnlyID.net accounts',
+  git: 'https://github.com/laosb/meteor-accounts-onlyid',
   version: '1.0.2'
 });
 
