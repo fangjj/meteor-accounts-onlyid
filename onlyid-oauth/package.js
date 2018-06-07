@@ -1,7 +1,7 @@
 Package.describe({
   name: 'laosb:onlyid-oauth',
   summary: 'OnlyID.net OAuth flow',
-  version: '1.0.0'
+  version: '1.0.1'
 });
 
 Package.onUse(function (api) {

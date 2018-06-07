@@ -1,7 +1,7 @@
 Package.describe({
   name: 'laosb:accounts-onlyid',
   summary: 'Login service for OnlyID.net accounts',
-  version: '1.0.1'
+  version: '1.0.2'
 });
 
 Package.onUse(function (api) {
@@ -12,7 +12,7 @@ Package.onUse(function (api) {
   api.imply('accounts-base', ['client', 'server']);
 
   api.use('accounts-oauth', ['client', 'server']);
-  api.use('laosb:onlyid-oauth@1.0.0');
+  api.use('laosb:onlyid-oauth@1.0.1');
   api.imply('laosb:onlyid-oauth');
 
   api.addFiles('onlyid.js');
